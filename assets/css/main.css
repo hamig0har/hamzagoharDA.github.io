@@ -4788,3 +4788,15 @@ input, select, textarea {
     height: 200px;  /* Maintain aspect ratio */
 }
 
+/* Image in the second article of the Posts section */
+#main > .posts > article:nth-child(3) .image img {
+    width: 400px;  /* Adjust the size to your preference */
+    height: 200px;  /* Maintain aspect ratio */
+}
+
+/* Image in the second article of the Posts section */
+#main > .posts > article:nth-child(4) .image img {
+    width: 400px;  /* Adjust the size to your preference */
+    height: 200px;  /* Maintain aspect ratio */
+}
+
