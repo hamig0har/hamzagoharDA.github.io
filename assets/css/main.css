@@ -4769,8 +4769,8 @@ input, select, textarea {
 
 /* Image in the Featured Post section */
 #main > .post.featured .image.main img {
-    width: 600px;
-    height: 350px;
+    width: 300px;
+    height: 200px;
     display: block;  /* Ensures the image behaves as a block-level element */
     margin: 0 auto;  /* Centers the image horizontally */
 }
